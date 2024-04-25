@@ -1,0 +1,56 @@
+PSF
+
+       1 !NTITLE
+ REMARKS VMD-generated NAMD/X-Plor PSF structure file
+
+      18 !NATOM
+       1 A    1    BEN  C    C                 0       12.0107       0
+       2 A    1    BEN  H    H                 0       1.00794       0
+       3 A    1    BEN  C    C                 0       12.0107       0
+       4 A    1    BEN  H    H                 0       1.00794       0
+       5 A    1    BEN  C0   C                 0       12.0107       0
+       6 A    1    BEN  S    S                 0        32.065       0
+       7 A    1    BEN  C1   C                 0       12.0107       0
+       8 A    1    BEN  H1   H                 0       1.00794       0
+       9 A    1    BEN  C2   C                 0       12.0107       0
+      10 A    1    BEN  H2   H                 0       1.00794       0
+      11 A    1    BEN  C3   C                 0       12.0107       0
+      12 A    1    BEN  S    S                 0        32.065       0
+      13 A    1    BEN  H0   H                 0       1.00794       0
+      14 A    1    BEN  C4   C                 0       12.0107       0
+      15 A    1    BEN  C5   C                 0       12.0107       0
+      16 A    1    BEN  C6   C                 0       12.0107       0
+      17 A    1    BEN  O    O                 0       15.9994       0
+      18 A    1    BEN  C7   C                 0       12.0107       0
+
+      19 !NBOND: bonds
+       1       2       1       3       1      11       3       4
+       3       5       5       6       5       7       6      13
+       7       8       7       9       9      10       9      11
+      11      12      12      14      14      15      14      17
+      15      16      16      18      17      18
+
+       0 !NTHETA: angles
+
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0
+
+       1       0 !NGRP
+       0       0       0
+
